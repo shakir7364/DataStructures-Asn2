@@ -1,2 +1,2 @@
-# DataStructures-Asn2
- Data Structures Assignment 2
+# Data Structures Assignment 2
+This assignment invovles creating an AList class that implements an interface class titled ListInterface. The AList class is supposed to mimic the ArrayList object by having methods to add nodes, get and set nodes at given position, find a node between given positions, remove node at given position, clear the list, return list as an array, check if list isEmpty(), and override toString().
